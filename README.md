@@ -1,5 +1,5 @@
 # Vagrant-examples
- Here you will find some examples that will help you to get used to Vagrant. Combined to Packer, Terraform and CloudInit, these tools can help you to build your infrastructure in a very efficient way.
+ Here you will find some examples that will help you to get used to Vagrant. Combined to Packer, Terraform and CloudInit, it can help you to build your infrastructure in a very efficient way.
 
 # Requirements:
 - Install VirtualBox: https://www.virtualbox.org/wiki/Downloads
